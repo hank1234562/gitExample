@@ -1,3 +1,3 @@
 boss, NetID, LastName, FirstName
-boss,sli826,ShangchenLi
+boss,sli826,Li, Shangchen
 employee,jxiang34,Xiang,Junyuan
